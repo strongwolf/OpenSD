@@ -8,7 +8,7 @@ Codes and pretained models will be released soon.
 
 <a href='https://arxiv.org/abs/2311.16518'><img src='https://img.shields.io/badge/arXiv-2311.16518-b31b1b.svg'></a> &nbsp;&nbsp;
 
-[Shuai Li](https://scholar.google.com.hk/citations?hl=zh-CN&user=Bd73ldQAAAAJ)<sup>1,2</sup> | [Minghan Li](https://scholar.google.com/citations?user=LhdBgMAAAAAJ&hl=en)<sup>1,2</sup> | [Pengfeng Wang]()<sup>1,2</sup> | [Lei Zhang](https://www4.comp.polyu.edu.hk/~cslzhang/)<sup>1,2</sup>
+[Shuai Li](https://scholar.google.com.hk/citations?hl=zh-CN&user=Bd73ldQAAAAJ)<sup>1,2</sup> | [Minghan Li](https://scholar.google.com/citations?user=LhdBgMAAAAAJ&hl=en)<sup>1,2</sup> | [Pengfeng Wang](https://scholar.google.com/citations?user=zAAYwRYAAAAJ&hl=en)<sup>1,2</sup> | [Lei Zhang](https://www4.comp.polyu.edu.hk/~cslzhang/)<sup>1,2</sup>
 
 <sup>1</sup>The Hong Kong Polytechnic University, <sup>2</sup>OPPO Research Institute
 
