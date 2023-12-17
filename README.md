@@ -18,10 +18,8 @@ Codes and pretained models will be released soon.
 - **2023.12.17**: Repo is released.
 
 
-:star: If OpenSD is helpful to your images or projects, please help star this repo. Thanks! :hugs:
-
 ## Overview framework:
-![seesr](figs/framework.png)
+![OpenSD](figs/framework.png)
 
 
 
@@ -32,14 +30,12 @@ Codes and pretained models will be released soon.
 <details>
 <summary><strong>From COCO to ADE</strong> (click to expand) </summary>
 
-![seesr](figs/data_syn.png)
 
 </details>
 
 <details>
 <summary><strong>From ADE to COCO</strong> (click to expand) </summary>
 
-![seesr](figs/data_real.png)
 
 </details>
 
