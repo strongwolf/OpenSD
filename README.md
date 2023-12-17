@@ -1,7 +1,7 @@
 
 
       
-## OpenSD: OpenSD: Unified Open-Vocabulary Segmentation and Detection
+## OpenSD: Unified Open-Vocabulary Segmentation and Detection
 
 
 Codes and pretained models will be released soon. 
