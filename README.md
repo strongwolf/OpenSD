@@ -67,6 +67,6 @@ The following are BibTeX references:
 <details>
 <summary>statistics</summary>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=cswry/SeeSR)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=strongwolf/OpenSD)
 
 </details>
