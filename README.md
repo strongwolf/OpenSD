@@ -25,19 +25,14 @@ Codes and pretained models will be released soon.
 
 ### Results
 
+#### From COCO to ADE
+
+![](figs/coco2ade.png)
 
 
-<details>
-<summary><strong>From COCO to ADE</strong> (click to expand) </summary>
+#### From ADE to COCO
+![](figs/ade2coco.png)
 
-
-</details>
-
-<details>
-<summary><strong>From ADE to COCO</strong> (click to expand) </summary>
-
-
-</details>
 
 
 #### Contact
