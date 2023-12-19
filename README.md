@@ -35,10 +35,10 @@ Codes and pretained models will be released soon.
 
 
 
-#### Contact
+### Contact
 If you have any questions, please contact: novak.li@connect.polyu.hk
 
-#### License
+### License
 This project is released under the [Apache 2.0 license](LICENSE).
 
 ### Citations
